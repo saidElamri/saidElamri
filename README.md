@@ -48,7 +48,7 @@ Check it out on my portfolio soon! 🌐
 
 ## 📊 GitHub Stats
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=said-elamri&show_icons=true&theme=radical)  
+![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=radical)  
 
 ---
 
