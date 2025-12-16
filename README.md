@@ -1,12 +1,32 @@
 # 👋 Hi, I’m Said Elamri
 
-Full-Stack Web Developer | MERN Stack | Data Science Enthusiast  
+**AI & Full-Stack Developer** | MERN Stack | Machine Learning & Data Science  
+📍 Agadir, Morocco
 
-I love combining **web development** and **data science** to build projects that are both **functional** and **fun**. Currently, I’m working on **Food Xplorers**, an app that helps users discover native dishes and recipes worldwide. 🍲✨
+I’m a passionate developer who builds **clean, scalable, and practical applications** by combining **modern web development** with **AI and data-driven solutions**. I enjoy working on real-world problems where code, data, and user experience meet.
 
 ---
 
-## 🧰 Skills & Technologies
+## 🚀 What I Do
+
+- Build **full-stack web applications** (React, Node.js, MongoDB)
+- Develop **high-performance APIs** with **FastAPI** and **Django**
+- Create and deploy **Machine Learning models**
+- Transform data into **insights & decisions**
+- Focus on **clean code, simple UI, and maintainable architecture**
+
+---
+
+## 🧠 Current Focus
+
+- 🤖 Machine Learning & AI (prediction, classification, pipelines)
+- 🍲 **Food Xplorers** – discover native dishes & recipes worldwide
+- 🧪 Data preprocessing, feature engineering & model evaluation
+- 🇩🇪 Learning German as a long-term personal goal
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,51 +34,84 @@ I love combining **web development** and **data science** to build projects that
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Backend
+---
+
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+---
+
+### Data Science & AI
+- Pandas, NumPy
+- scikit-learn
+- Exploratory Data Analysis (EDA)
+- Feature Engineering & Selection
+- Model Optimization (GridSearchCV)
+- Evaluation Metrics (MAE, R²)
+- ML Pipelines & basic CI/testing
+
+---
+
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- RESTful API design
+- MVC & modular architecture
+- Native CSS (no heavy UI frameworks)
+- Basic CI/CD & testing mindset
 
 ---
 
-## 🚀 Current Project
+## 📌 Featured Projects
 
-**Food Xplorers**  
-Discover native dishes, recipes, and local culinary gems worldwide.  
-Tech Stack: React, TheMealDB API, CSS, JavaScript  
+### 🍲 Food Xplorers
+Discover native dishes, recipes, and local food culture worldwide.  
+**Tech:** React, JavaScript, CSS, TheMealDB API
 
-Check it out on my portfolio soon! 🌐
+### 📊 RetentionAI
+AI-powered HR decision-support system predicting employee attrition and generating action plans.  
+**Tech:** Python, Machine Learning, FastAPI
+
+### 🎥 ODCStream
+Online meeting platform with shared notes and role-based access.  
+**Tech:** React, MERN Stack, Native CSS
 
 ---
 
-## 🌱 Learning
+## 🎓 Certifications & Learning
 
-- Improving **Machine Learning** skills  
-- Learning **German language** 🇩🇪  
+- Google **Cybersecurity Certificate**
+- ALX **AI Career Essentials**
+- freeCodeCamp Certifications
+- 4-month **MERN Stack Bootcamp** (ODC Orange)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=radical)  
+![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-elamri/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:said.elamri.evi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-elamri/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiidelamri1@gmail.com)
 
 ---
 
-## 😄 Fun Fact
+## ⚡ Fun Fact
 
-I mix my love for **food** and **code** — building apps that taste good and look good! 🍕💻
+I enjoy mixing **food, data, and code** — because a great app should be **useful, elegant, and satisfying**, just like a great meal 🍽️💻
