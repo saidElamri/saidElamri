@@ -63,5 +63,4 @@ I bridge the gap between **Scientific Methodology** and **Scalable Software Arch
 ### **📈 GitHub Activity**
 ![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=nord&hide_border=true)
 
----
-*Generated with a focus on 2026 Engineering Standards.*
+
