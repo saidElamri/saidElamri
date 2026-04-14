@@ -1,50 +1,67 @@
-AI & Full-Stack Engineer | Agadir, Morocco
+# Said Elamri
+### **Systems Engineer | AI & Full-Stack Architect**
+**[LinkedIn](https://linkedin.com/in/said-elamri) • [said.elamri.evi@gmail.com](mailto:said.elamri.evi@gmail.com) • Agadir, Morocco**
 
-I build end-to-end applications that bridge the gap between complex data science and production-ready software. My work focuses on creating high-impact AI solutions—from biometric identification pipelines to automated recruitment systems—backed by robust Full-Stack architectures.
+---
 
-🛠 Core Technical Stack
-Languages: TypeScript, JavaScript (ES6+), Python, Bash.
+### **🛡️ Professional Intent**
+I bridge the gap between **Scientific Methodology** and **Scalable Software Architecture**. With a foundation in **Biochemistry** and a 6.5-month intensive specialization in **AI Development (Simplon)**, I build production-grade systems that leverage **Computer Vision**, **RAG**, and **Full-Stack automation**.
 
-AI & Data: RAG Systems, Computer Vision, LLM Orchestration, Scikit-learn, ONNX.
+> **Status:** Open to strategic roles in AI Engineering, Data Systems, or Full-Stack Architecture.
 
-Web: React, Vite, Node.js, FastAPI, Django.
+---
 
-Infrastructure: Docker, Kubernetes, Terraform, Azure SQL, Linux (Ubuntu).
+### **🏗️ Technical Ecosystem**
 
-📌 Key Projects
-Cattle Biometric Pipeline
-An end-to-end identification system using cattle muzzle patterns.
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Languages** | **TypeScript**, Python (Advanced), Bash, JavaScript |
+| **AI & Research** | RAG (ChromaDB), OpenCV, Scikit-learn, ONNX, NER, LLM Orchestration |
+| **Backend & API** | Node.js (Express), FastAPI, Django, RESTful Design |
+| **Frontend** | React, Vite, Tailwind CSS, Redux Toolkit |
+| **Infrastructure** | **Docker**, **Terraform**, Azure Cloud, Kubernetes, Linux (Ubuntu) |
+| **Data Layer** | PostgreSQL, Azure SQL, MongoDB, Redis |
 
-Tech: Python, OpenCV, Clustering, ONNX.
+---
 
-Impact: Developed a unique biometric solution for livestock identification, handling the full lifecycle from image processing to model deployment.
+### **🚀 Engineering Case Studies**
 
-HR-Pulse
-An AI-driven Data Engineering solution designed to modernize recruitment workflows.
+#### **1. Cattle Biometric Identification Pipeline (Computer Vision)**
+*Solving unique identification in non-standard biometric environments.*
+* **The Problem:** Standard facial recognition fails on livestock due to environmental noise and lack of static features.
+* **The Engineering:** Designed a muzzle-pattern recognition pipeline using **OpenCV** for feature extraction and clustering for unique ID generation.
+* **Result:** Optimized the model into **ONNX** format, enabling low-latency inference on edge devices.
 
-Tech: Azure SQL, FastAPI, Named Entity Recognition (NER), Salary Prediction Models.
+#### **2. HR-Pulse | Recruitment Intelligence (Data Engineering)**
+*Automating the recruitment lifecycle through AI-driven extraction.*
+* **The Problem:** High-volume resume screening is bottlenecked by unstructured data.
+* **The Engineering:** Built a microservices architecture using **FastAPI** and **Azure SQL** to handle **NER (Named Entity Recognition)** for automated parsing.
+* **Impact:** Integrated a predictive salary engine to provide real-time market alignment during data ingestion.
 
-Impact: Automated resume parsing and predictive analytics for HR processes.
+#### **3. Hybrid-Analyzer (MLOps)**
+*A modular framework for streamlining the training-to-production gap.*
+* **Focus:** Standardizing feature engineering and model benchmarking to ensure reproducible ML results.
 
-Hybrid-Analyzer
-A Python-based framework for advanced data analysis and machine learning workflows.
+---
 
-Tech: Python, Scikit-learn, Feature Engineering.
+### **🎓 Credentials & Background**
 
-🎓 Education & Certifications
-AI Developer (6.5 Months Intensive) – Simplon
+* **AI Developer Specialist (6.5 Months)** | **Simplon** *Intensive specialization in Deep Learning, ML Productionalization, and Model Deployment.*
+* **B.Sc. in Biochemistry** | **Ibn Zohr University** *Leveraging scientific data analysis and experimental design in technical problem-solving.*
+* **MERN Stack Certification** | Orange Digital Center.
+* **Cybersecurity & AI Essentials** | Google & ALX.
 
-Degree in Biochemistry – Ibn Zohr University
+---
 
-MERN Stack Bootcamp – Orange Digital Center
+### **⚙️ Workflow & Standards**
+* **Type-Safe First:** Heavy emphasis on **TypeScript** for enterprise-grade maintainability.
+* **Cloud-Native:** Utilizing **Docker** and **Terraform** for reproducible environments.
+* **Clean Code:** Strict adherence to **SOLID** principles and self-documenting architectures.
 
-Google Cybersecurity Certificate
+---
 
-ALX AI Career Essentials
+### **📈 GitHub Activity**
+![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=nord&hide_border=true)
 
-📫 Let's Connect
-LinkedIn: said-elamri
-
-Email: said.elamri.evi@gmail.com
-
-GitHub: saidElamri
+---
+*Generated with a focus on 2026 Engineering Standards.*
