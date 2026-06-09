@@ -4,14 +4,14 @@
 
 ---
 
-### **🛡️ Professional Intent**
+### ** Professional Intent**
 I bridge the gap between **Scientific Methodology** and **Scalable Software Architecture**. With a foundation in **Biochemistry** and a 6.5-month intensive specialization in **AI Development (Simplon)**, I build production-grade systems that leverage **Computer Vision**, **RAG**, and **Full-Stack automation**.
 
 > **Status:** Open to strategic roles in AI Engineering, Data Systems, or Full-Stack Architecture.
 
 ---
 
-### **🏗️ Technical Ecosystem**
+### ** Technical Ecosystem**
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I bridge the gap between **Scientific Methodology** and **Scalable Software Arch
 
 ---
 
-### **🚀 Engineering Case Studies**
+### ** Engineering Case Studies**
 
 #### **1. Cattle Biometric Identification Pipeline (Computer Vision)**
 *Solving unique identification in non-standard biometric environments.*
@@ -44,7 +44,7 @@ I bridge the gap between **Scientific Methodology** and **Scalable Software Arch
 
 ---
 
-### **🎓 Credentials & Background**
+### ** Credentials & Background**
 
 * **AI Developer Specialist (6.5 Months)** | **Simplon** *Intensive specialization in Deep Learning, ML Productionalization, and Model Deployment.*
 * **B.Sc. in Biochemistry** | **Ibn Zohr University** *Leveraging scientific data analysis and experimental design in technical problem-solving.*
@@ -53,14 +53,14 @@ I bridge the gap between **Scientific Methodology** and **Scalable Software Arch
 
 ---
 
-### **⚙️ Workflow & Standards**
+### ** Workflow & Standards**
 * **Type-Safe First:** Heavy emphasis on **TypeScript** for enterprise-grade maintainability.
 * **Cloud-Native:** Utilizing **Docker** and **Terraform** for reproducible environments.
 * **Clean Code:** Strict adherence to **SOLID** principles and self-documenting architectures.
 
 ---
 
-### **📈 GitHub Activity**
+### ** GitHub Activity**
 ![Said's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidElamri&show_icons=true&theme=nord&hide_border=true)
 
 
